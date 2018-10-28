@@ -1,0 +1,16 @@
+/**
+ * mlbors - SCSS - Components
+ *
+ * since		07.12.2016
+ * version		1.0.0.0
+ * author		mlbors
+ * copyright	-
+ */
+ 
+ .cover-container {
+    content: ' ';
+    background-image: url('./../img/cardioide-min.jpg');
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+}
